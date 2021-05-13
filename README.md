@@ -16,9 +16,17 @@ Advance termux bammer and gui changer
 
 💡apt-get install git
 
-💡git clone 
+💡git clone https://github.com/shalithamadhuwantha/changemux
 
-💡cd 
+💡cd changemux
+
+💡unzip changemux
+
+💡cd changemux
+
+💡bash request.sh
+
+💡bash mux.sh
 
 
 
